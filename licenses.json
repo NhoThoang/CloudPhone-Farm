@@ -1,0 +1,9 @@
+{
+    "KEYS": {
+        "TEST-KEY-123": {
+            "hwid": null,
+            "expiry": "2026-12-31",
+            "is_active": true
+        }
+    }
+}
