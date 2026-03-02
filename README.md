@@ -11,7 +11,7 @@ Cho phép quan sát và điều khiển hàng loạt thiết bị điện thoạ
 *   **Hỗ trợ độ trễ thấp:** Tối ưu hóa luồng dữ liệu truyền tải hình ảnh từ thiết bị.
 *   **Tương tác thời gian thực:** Click, vuốt, gõ phím trực tiếp trên màn hình máy tính.
 
-![Giao diện View Phone](images/11.png)
+![Giao diện View Phone](images/11.jpg)
 *Hình 1: Giao diện quản lý và xem màn hình điện thoại tập trung.*
 
 ### 2. 🤖 Hệ thống Automation mạnh mẽ
@@ -19,7 +19,7 @@ Tự động hóa các tác vụ lặp đi lặp lại trên thiết bị một 
 *   **Quản lý Script:** Hỗ trợ chạy các kịch bản tự động hóa tùy chỉnh.
 *   **Quản lý Token:** Hệ thống lưu trữ và phục hồi trạng thái làm việc (active tokens) thông minh.
 
-![Giao diện Automation](images/12.png)
+![Giao diện Automation](images/12.jpg)
 *Hình 2: Hệ thống quản lý và vận hành kịch bản tự động hóa.*
 
 ### 3. 🌐 Kết nối từ xa (Cloudflare Tunnel)
